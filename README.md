@@ -92,7 +92,7 @@ the use of a scanner object, if-else statements, and print statements
 ## Unit 5
 
 # Code Challenges
-Code Challenges will be located in their respective Unit folders (Unit x/challenge x)
+Code Challenges will be located in their respective Unit folders (Unit x/src/CodeChallenges/challenge x)
 ## Unit 1 Code Challenges
 >01.01 Print Names and Ages
 
