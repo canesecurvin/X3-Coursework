@@ -12,7 +12,7 @@ This repo holds all course work for the HackbrightxWalmart X3 Apprenticeship
       * [Unit 3](#unit-3)
       * [Unit 4](#unit-4)
       * [Unit 5](#unit-5)
-    * [Code Challengs](#code-challenges)
+    * [Code Challenges](#code-challenges)
       * [Unit 1](#unit-1-code-challenges)
       * [Unit 2](#unit-2-code-challenges)
       * [Unit 3](#unit-3-code-challenges)
