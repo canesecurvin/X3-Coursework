@@ -1,4 +1,4 @@
-package Unit1.MarsWeek.src;
+package Unit1.src.CodeChallenges;
 
 public class CreatePerson_0103 {
     public static void main(String[] args) {

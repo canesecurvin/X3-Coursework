@@ -1,4 +1,4 @@
-package Unit1.MarsWeek.src;
+package Unit1.src;
 
 import java.util.Scanner;
 

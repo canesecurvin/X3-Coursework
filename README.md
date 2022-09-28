@@ -98,13 +98,13 @@ Code Challenges will be located in their respective Unit folders (Unit x/challen
 
 >01.02 Should They Be Allowed to Ride?
  
->01.03 Create a Person Class
+>01.03 Create a Unit1.src.CodeChallenges.Person Class
 
 >01.04 Find by Name
 ## Unit 2 Code Challenges
 >02.01 Map People to IDs
 
->02.02 Upgrade the Person class
+>02.02 Upgrade the Unit1.src.CodeChallenges.Person class
 
 >02.03 Student and Teacher Classes
 

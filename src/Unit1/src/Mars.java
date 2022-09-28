@@ -1,4 +1,4 @@
-package Unit1.MarsWeek.src;
+package Unit1.src;
 
 public class Mars {
     public static void main(String[] args) throws InterruptedException {
