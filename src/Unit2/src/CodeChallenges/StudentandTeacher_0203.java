@@ -1,4 +1,4 @@
-package Unit2.src.CodingChallenges;
+package Unit2.src.CodeChallenges;
 
 public class StudentandTeacher_0203 {
 }

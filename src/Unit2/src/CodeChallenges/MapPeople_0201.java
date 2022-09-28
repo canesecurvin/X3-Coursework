@@ -1,4 +1,4 @@
-package Unit2.src.CodingChallenges;
+package Unit2.src.CodeChallenges;
 
 import java.util.*;
 

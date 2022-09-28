@@ -1,4 +1,4 @@
-package Unit2.src.CodingChallenges;
+package Unit2.src.CodeChallenges;
 public class UpgradePerson_0202 {
     public static void main(String args[]) {
 
