@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Unit1.MarsWeek.src;
 
 public class CreatePerson_0103 {
     public static void main(String[] args) {

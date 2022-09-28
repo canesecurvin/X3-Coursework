@@ -1,3 +1,5 @@
+package Unit1.MarsWeek.src;
+
 public class Allowed_0102 {
     public static void main(String[] args) {
 

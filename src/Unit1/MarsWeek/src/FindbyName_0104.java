@@ -1,3 +1,5 @@
+package Unit1.MarsWeek.src;
+
 import java.util.Scanner;
 
 public class FindbyName_0104 {
