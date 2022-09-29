@@ -109,7 +109,7 @@ class WriteToFile {
             PrintWriter salesWriter = new PrintWriter(fw);
 
             for (Object o: order){
-                salesWriter.println("\t\t\t" + o);
+                salesWriter.println("\t\t" + o);
             }
             salesWriter.println("---------------------------------------------------");
             salesWriter.println("Subtotal: \t$" + subtotal + "0");

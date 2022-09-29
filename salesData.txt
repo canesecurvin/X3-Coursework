@@ -1,6 +1,7 @@
-			$3.00 - A generic drink with no taste, water
-			$1.00 - A chocolate based cupcake, with chocolate frosting
-			$2.00 - A red velvet based cupcake, with cream cheese frosting
-			$1.00 - A bottle of milk
+		$3.00 - A generic drink with no taste, water
+		$1.00 - A chocolate based cupcake, with chocolate frosting
+		$2.00 - A red velvet based cupcake, with cream cheese frosting
+		$1.00 - A bottle of milk
+		$3.00 - A generic drink with no taste, water
 ---------------------------------------------------
-Subtotal: 	$7.00
+Subtotal: 	$10.00
