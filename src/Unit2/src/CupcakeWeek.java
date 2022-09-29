@@ -100,22 +100,27 @@ class Cupcake {
         this.price = price;
     }
 
-    public void type(String append){
-        System.out.println("A basic, generic cupcake, with vanilla frosting" + append);
+    public String type(String append){
+        return "A basic, generic cupcake, with vanilla frosting" + append;
+    }
+
+    @Override
+    public String toString(){
+        return "$" + getPrice() + "0 - " + type("");
     }
 }
 
 class RedVelvet extends Cupcake {
     @Override
-    public void type(String append){
-        System.out.println("A red velvet based cupcake, with cream cheese frosting" + append );
+    public String type(String append){
+        return "A red velvet based cupcake, with cream cheese frosting" + append;
     }
 }
 
 class Chocolate extends Cupcake {
     @Override
-    public void type(String append){
-        System.out.println("A chocolate based cupcake, with chocolate frosting" + append);
+    public String type(String append){
+        return "A chocolate based cupcake, with chocolate frosting" + append;
     }
 }
 
@@ -130,21 +135,26 @@ class Drink {
         this.price = price;
     }
 
-    public void type(String append){
-        System.out.println("A generic drink with no taste, water" + append);
+    public String type(String append){
+        return "A generic drink with no taste, water" + append;
+    }
+
+    @Override
+    public String toString(){
+        return "$" + getPrice() + "0 - " + type("");
     }
 }
 
 class Soda extends Drink{
     @Override
-    public void type(String append){
-        System.out.println("A bottle of soda" + append);
+    public String type(String append){
+        return "A bottle of soda" + append;
     }
 }
 
 class Milk extends Drink{
     @Override
-    public void type(String append){
-        System.out.println("A bottle of milk" + append);
+    public String type(String append){
+        return "A bottle of milk" + append;
     }
 }
