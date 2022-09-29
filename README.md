@@ -1,4 +1,4 @@
-<img src="https://github.com/canesecurvin/X3-Coursework/blob/master/readmeheader.png" width="400" height=auto />
+<img src="https://github.com/canesecurvin/X3-Coursework/blob/master/readmeheader.png" width="700" height=auto />
 
 # X3 Coursework and Coding Challenges 
 
