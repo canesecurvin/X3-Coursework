@@ -42,5 +42,9 @@ class UpgradedPerson {
             System.out.println(age + " Needs to be postive integer. Replacing with default settings");
         }
     }
+
+    public void introduce(){
+        System.out.println("Hi, my name is " + name);
+    }
 }
 
