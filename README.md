@@ -1,4 +1,5 @@
-<img src="https://github.com/fcantor/Moove/blob/master/web_dynamic/static/styles/images/cow-logo.png" width="160" height=auto />
+<img src="https://github.com/canesecurvin/X3-Coursework/blob/master/readmeheader.png" width="400" height=auto />
+
 # X3 Coursework and Coding Challenges 
 
 ## Description
