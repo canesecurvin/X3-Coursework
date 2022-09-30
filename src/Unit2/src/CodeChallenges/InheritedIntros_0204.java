@@ -25,6 +25,10 @@ class NewStudent extends UpgradedPerson{
         //make sure to validate
         this.grade = grade;
     }
+
+    public String toString(NewStudent s){
+        return s.getName() + ": " + s.getAge();
+    }
 }
 
 class NewTeacher extends UpgradedPerson {
