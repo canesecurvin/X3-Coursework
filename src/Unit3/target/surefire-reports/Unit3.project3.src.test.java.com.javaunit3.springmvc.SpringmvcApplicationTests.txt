@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Unit3.project3.src.test.java.com.javaunit3.springmvc.SpringmvcApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.183 s <<< FAILURE! - in Unit3.project3.src.test.java.com.javaunit3.springmvc.SpringmvcApplicationTests
+Unit3.project3.src.test.java.com.javaunit3.springmvc.SpringmvcApplicationTests  Time elapsed: 0.182 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
