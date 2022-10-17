@@ -25,7 +25,7 @@ This repo holds all course work for the HackbrightxWalmart X3 Apprenticeship
 
 # Units
 ## Unit 1
-### Part 1: Setup
+### Part 1: Setups
 
 >Objective
 >* In this section, you’ll complete your installation of the software you need 
@@ -90,7 +90,55 @@ the use of a scanner object, if-else statements, and print statements
 >* Student can create UPDATE, DELETE, INSERT statements
 >* Students can create and destroy databases
 ## Unit 3
+### Part 1: Introduction to Spring
+
+>Objective
+>* Student understands the purpose of Spring
+>* Student can create a Spring application
+>* Student understands the purpose of Maven
+>* Student can run basic Maven commands
+
+### Part 2: Websites (Spring MVC)
+
+>Objective
+>* Student can create Spring controllers
+>* Student can create Spring views
+>* Student can add data to Spring models
+>* Student can create a basic Thymeleaf app
+
+
+### Part 3: Hibernate
+
+>Objective
+>* Student can manage database objects in an object-oriented manner
+>* Student can create tables and relationships between classes
+>* Student can implement CRUD functionality across the full stack
+
+### Part 4: Movie Voting (Thymeleaf and Hybernate)
+
+>Objective
+>* Student will create a dropdown, display lists using Thymeleaf, and use advanced Hibernate mapping
 ## Unit 4
+### Part 1: Initializing the Spring App and Hosting a PostgreSQL Database on Heroku
+
+>Objective
+>* Student can run an app locally and produce dynamic output in their web browser
+>* Student can create dynamic templates and render them
+
+### Part 2: Creating the Entities and Data Transfer Objects
+
+>Objective
+>* In this part of the project, you will create object entities and DTOs with all the getters, setters, and constructors needed.
+
+### Part 3: Creating the Access Layers to Interact with the Database
+
+>Objective
+>* You will create the repository, controller, and service later of a Spring project.
+
+### Part 4: Creating the Front End Code
+
+>Objective
+>* Student will create frontend with HMTL, CSS, Javascript and Bootstrap
 ## Unit 5
 
 # Code Challenges
